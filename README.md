@@ -100,13 +100,12 @@ mvn spring-boot:run
 | PUT | /api/students/{id} | Update student |
 | DELETE | /api/students/{id} | Delete student |
 
----
 
-## 📸 Screenshots
 
-> Add your screenshots here!
+ 📸 Screenshots
+<img width="1881" height="920" alt="image" src="https://github.com/user-attachments/assets/ef352d28-8d69-4fbf-844d-c6c2cb9e45f8" />
 
----
+
 
 ## 👨‍💻 Author
 
